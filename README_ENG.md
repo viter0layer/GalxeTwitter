@@ -1,6 +1,6 @@
 ## Workflow Logic
 
-!!! The `mode` variable in the `config` file controls the logic between functions. !!!
+The `mode` variable in the `config` file controls the logic between functions.
 
 1. Function `verify_on_galxe` (Requests + Selenium):
     1. Logs into the Galxe website.
