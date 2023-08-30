@@ -1,0 +1,18 @@
+    "galxe_social_tasks_ids": ['253496928496164864', '286696619215855616', '280704789634523136', '278549585866694656',
+                               '301229797678948352', '288972118256427008', '291412236015673344', '293632144904462336',
+                               '293750053635006464', '278340090800545792'],
+
+
+TASK_ID_TO_TASK_STRING = {
+    '253496928496164864': 'twitter follower',
+    '286696619215855616': 'Polyhedra Retweets: zkLightClient on LayerZero - Tweet Retweeters 1663906700582170626',
+    '280704789634523136': 'PolyhedraZK - Tweet Quoters & Mention 1 friend - Tweet 1658111159139020806',
+    '278549585866694656': 'PolyhedraZK - Tweet Quoters - Tweet 1655948436406157312',
+    '301229797678948352': 'PolyhedraZK - Tweet Retweeters - Tweet 1678639611692695552',
+    '288972118256427008': 'PolyhedraZK - Tweet Retweeters - Tweet 1665665972370550785',
+    '291412236015673344': 'PolyhedraZK - Tweet Retweeters - Tweet 1668169901377486850',
+    '293632144904462336': 'PolyhedraZK - Tweet Retweeters - Tweet 1670794025824133124',
+    '293750053635006464': 'PolyhedraZK - Tweet Retweeters - Tweet 1671157876067565568',
+    '278340090800545792': 'PolyhedraZK - Tweet Retweeters - Tweet 1649217088664530946'
+
+}
