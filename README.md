@@ -1,4 +1,4 @@
-## Логика работы
+# GalxeTwitter
 Между фунциами котролируете с переменной `mode` в `data/config.py`
 
 1. функция `verify_on_galxe` (Requests + Selenium) -
