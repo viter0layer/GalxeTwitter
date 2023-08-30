@@ -6,7 +6,6 @@ import time
 from time import sleep
 from random import randint, uniform
 from uuid import uuid4
-
 import aiohttp
 from web3 import Web3
 from fake_useragent import UserAgent
@@ -23,16 +22,7 @@ from eth_account.messages import encode_defunct
 import random
 from datetime import datetime, timedelta
 from requests_html import AsyncHTMLSession
-
 from data.consts import TASK_ID_TO_TASK_STRING
-
-
-class AlreadyFollowingException(Exception):
-    pass
-
-class ElementClickInterceptedException(Exception):
-    pass
-
 
 class Profile:
     DOLPHIN_API_ROOT = "http://localhost:3001/v1.0/browser_profiles/"
